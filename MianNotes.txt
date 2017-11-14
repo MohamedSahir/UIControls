@@ -1,0 +1,3 @@
+ng serve --port 4201 --live-reload-port 4200
+
+npm install -g @angular/cli @1.5.0
